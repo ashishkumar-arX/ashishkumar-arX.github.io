@@ -1,4 +1,7 @@
-.greet{
-    color: rgb(9, 67, 67);
-    background-color: azure;
+body{
+    background-color: rgb(170, 231, 231);
+}
+
+#greet{
+    color: rgb(68, 106, 7);
 }
